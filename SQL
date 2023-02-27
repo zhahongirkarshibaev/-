@@ -1,0 +1,9 @@
+SELECT        names_product, price, types, Category, manufacturer
+FROM            dbo.Products
+
+SELECT        dbo.Products.names_product, dbo.Products.price, dbo.Products.types, dbo.Category.names_category, dbo.Supplietrs.names_suppliers
+FROM            dbo.Products INNER JOIN
+                         dbo.Supplietrs ON dbo.Products.manufacturer = dbo.Supplietrs.names_suppliers INNER JOIN
+                         dbo.Category ON dbo.Products.Category = dbo.Category.names_category
+                         
+                         на всякий случай
