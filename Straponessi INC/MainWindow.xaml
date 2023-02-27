@@ -1,0 +1,29 @@
+﻿<Window x:Class="Straponessi_INC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Straponessi_INC"
+        mc:Ignorable="d"
+        Title="Straponessi INC" Width="1920" Height="1080" WindowStyle="None" ResizeMode="NoResize" >
+    <Grid RenderTransformOrigin="0.482,0.483" Margin="0,0,10,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="/темная-кирпичная-стена-как-фон-элемент-дизайна-кирпичной-кладки-103438592.jpg"/>
+        </Grid.Background>
+        <Button Content="Регистрация" HorizontalAlignment="Left" Margin="632,219,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="106" Width="189" Click="Button_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.061"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Margin="1237,0,0,0" VerticalAlignment="Top" Height="53" Width="59" Click="Button_Click_1">
+            <Button.Background>
+                <ImageBrush ImageSource="/xxx.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

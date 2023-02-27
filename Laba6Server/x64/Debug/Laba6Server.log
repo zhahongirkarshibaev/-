@@ -1,0 +1,17 @@
+﻿  Laba6Server.cpp
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(36,23): error C2664: "int recv(SOCKET,char *,int,int)": невозможно преобразовать аргумент 2 из "char *[1024]" в "char *"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(37,13): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winsock2.h(2002,1): message : см. объявление "recv"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(39,22): warning C4477: "printf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "SOCKET"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(39,22): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(39,22): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(39,22): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(40,69): error C2664: "int send(SOCKET,const char *,int,int)": невозможно преобразовать аргумент 2 из "char *[1024]" в "const char *"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(40,50): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winsock2.h(2077,1): message : см. объявление "send"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(123,33): error C2664: "int closesocket(SOCKET)": невозможно преобразовать аргумент 1 из "SOCKET [2]" в "SOCKET"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(123,21): message : Не существует контекста, в котором такое преобразование возможно
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winsock2.h(1668,1): message : см. объявление "closesocket"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(130,33): error C2664: "int closesocket(SOCKET)": невозможно преобразовать аргумент 1 из "SOCKET [2]" в "SOCKET"
+C:\Users\zhaho\source\repos\Laba6Server\Laba6Server.cpp(130,21): message : Не существует контекста, в котором такое преобразование возможно
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winsock2.h(1668,1): message : см. объявление "closesocket"

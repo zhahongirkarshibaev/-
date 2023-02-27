@@ -1,0 +1,8 @@
+C:\Users\zhaho\source\repos\regvir\bin\Debug\regvir.exe.config
+C:\Users\zhaho\source\repos\regvir\bin\Debug\regvir.exe
+C:\Users\zhaho\source\repos\regvir\bin\Debug\regvir.pdb
+C:\Users\zhaho\source\repos\regvir\obj\Debug\regvir.csproj.AssemblyReference.cache
+C:\Users\zhaho\source\repos\regvir\obj\Debug\regvir.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhaho\source\repos\regvir\obj\Debug\regvir.csproj.CoreCompileInputs.cache
+C:\Users\zhaho\source\repos\regvir\obj\Debug\regvir.exe
+C:\Users\zhaho\source\repos\regvir\obj\Debug\regvir.pdb

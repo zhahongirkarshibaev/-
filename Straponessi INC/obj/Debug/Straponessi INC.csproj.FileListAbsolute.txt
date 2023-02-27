@@ -1,0 +1,19 @@
+C:\Users\zhaho\source\repos\Straponessi INC\bin\Debug\Straponessi INC.exe.config
+C:\Users\zhaho\source\repos\Straponessi INC\bin\Debug\Straponessi INC.exe
+C:\Users\zhaho\source\repos\Straponessi INC\bin\Debug\Straponessi INC.pdb
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC.csproj.AssemblyReference.cache
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\MainWindow.g.cs
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\App.g.cs
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC_MarkupCompile.cache
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC_MarkupCompile.lref
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\MainWindow.baml
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC.g.resources
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi_INC.Properties.Resources.resources
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC.csproj.GenerateResource.cache
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC.csproj.CoreCompileInputs.cache
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC.exe
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC.pdb
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Registr.g.cs
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Registr.baml
+C:\Users\zhaho\source\repos\Straponessi INC\obj\Debug\Straponessi INC_Content.g.cs
